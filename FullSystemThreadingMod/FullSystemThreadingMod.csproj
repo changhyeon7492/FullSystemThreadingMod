@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net472</TargetFramework> <!-- Unity 2019~2021대라 이거 맞음 -->
+    <TargetFramework>net472</TargetFramework>
     <RootNamespace>FullSystemThreadingMod</RootNamespace>
     <AssemblyName>FullSystemThreadingMod</AssemblyName>
     <OutputType>Library</OutputType>
